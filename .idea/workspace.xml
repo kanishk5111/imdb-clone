@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96fa4662-3d4e-4cd0-afc0-26f669e83608" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+            <option name="selectedSavedDocumentIndex" value="0" />
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gNREjOXcF8muCw8MdDTns2SWUO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imdb/static" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankur\PycharmProjects\imdb_clone\imdb\static" />
+      <recent name="C:\Users\Ankur\PycharmProjects\imdb_clone\imdb\movie\templates\movie" />
+      <recent name="C:\Users\Ankur\PycharmProjects\imdb_clone\imdb\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankur\PycharmProjects\imdb_clone\imdb\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imdb_clone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.first" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="27" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597955679887">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="27" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597955679887" />
+    <state x="511" y="227" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1597953919318">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="511" y="227" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1366.768@0.0.1366.768" timestamp="1597953919318" />
+    <state x="463" y="102" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1597955559378">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="102" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.768@0.0.1366.768" timestamp="1597955559378" />
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597953945629">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1597953945629" />
+    <state x="417" y="146" key="EnvironmentVariablesDialog" timestamp="1597953902912">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="146" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1597953902912" />
+    <state x="127" y="148" key="FileChooserDialogImpl" timestamp="1598019915564">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="127" y="148" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598019915564" />
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1598019919001">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598019919001" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1598019919001">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598019919001" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1598019919001">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598019919001" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1598019919001">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598019919001" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1597955753158">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597955753158" />
+    <state x="653" y="752" width="672" height="678" key="search.everywhere.popup" timestamp="1598096204192">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="653" y="752" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1598096204192" />
+  </component>
+</project>
