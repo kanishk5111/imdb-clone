@@ -6,16 +6,29 @@ from django.views.generic.dates import YearArchiveView
 
 from  .models import Movie,MovieLinks
 
+
+
+class HomeView(ListView):
+    model = Movie
+    template_name = 'movie/home.html'
+
+    def get_context_data(self , **kwargs):
+        context = super(HomeView , self).get_context_data(**kwargs)
+        context['top_rated'] = Movie.objects.filter(status='TR')
+        context['most_watched'] = Movie.objects.filter(status='MW')
+        context['recently_added'] = Movie.objects.filter(status='RA')
+        return context
+
 class MovieList(ListView):
     model = Movie
-    paginate_by = 1
+    paginate_by = 2
 
 
 class MovieDetail(DetailView):
     model = Movie
 
     def get_object(self):
-        object=super(MovieDetail,self).get_object()
+        object = super(MovieDetail,self).get_object()
         object.views_count += 1
         object.save()
         return object
@@ -23,10 +36,13 @@ class MovieDetail(DetailView):
     def get_context_data(self, **kwargs):
         context=super(MovieDetail,self).get_context_data(**kwargs)
         context['links'] = MovieLinks.objects.filter(movie=self.get_object())
+        context['related_movies'] = Movie.objects.filter(category=self.get_object().category)#.order_by['created'][0:6]
+        #print(context)
         return context
 
 class MovieCategory(ListView):
     model = Movie
+    paginate_by = 2
 
 
     def get_queryset(self):
@@ -41,7 +57,7 @@ class MovieCategory(ListView):
 
 class MovieLanguage(ListView):
     model = Movie
-    paginate_by = 1
+    paginate_by = 2
 
 
     def get_queryset(self):
@@ -57,7 +73,7 @@ class MovieLanguage(ListView):
 
 class MovieSearch(ListView):
     model = Movie
-    paginate_by = 1
+    paginate_by = 2
 
 
     def get_queryset(self):
