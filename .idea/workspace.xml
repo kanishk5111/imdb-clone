@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96fa4662-3d4e-4cd0-afc0-26f669e83608" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/imdb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/imdb/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/movie/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/movie/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/imdb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/imdb/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1gNREjOXcF8muCw8MdDTns2SWUO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -104,10 +102,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="27" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597955679887" />
-    <state x="446" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598359661640">
+    <state x="446" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598365447191">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="446" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1598359661640" />
+    <state x="446" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1598365447191" />
     <state x="511" y="227" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1597953919318">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
