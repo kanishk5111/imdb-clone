@@ -22,9 +22,9 @@ import os
 
 
 urlpatterns = [
-    path('', HomeView.as_view()),
+    path('',include('movie.urls',namespace='movies') ),
     path('admin/', admin.site.urls),
-    path('movies/', include('movie.urls',namespace='movies'))
+    path('movies/', HomeView.as_view())
 ]
 
 urlpatterns +=  static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

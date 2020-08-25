@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96fa4662-3d4e-4cd0-afc0-26f669e83608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imdb/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/imdb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/imdb/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imdb/imdb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/imdb/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/movie/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/movie/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/movie/templates/movie/movie_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/movie/templates/movie/movie_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/movie/templates/movie/movie_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/movie/templates/movie/movie_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb/movie/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/movie/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imdb/movie/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/movie/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imdb/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/templates/base.html" afterDir="false" />
     </list>
@@ -29,7 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IlluminatedCloudWorkspaceSettings">
     <option name="projectWorkspaceSettings">
@@ -60,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imdb/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -109,6 +104,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="27" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597955679887" />
+    <state x="446" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598359661640">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="446" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1598359661640" />
     <state x="511" y="227" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1597953919318">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -149,10 +148,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597955753158" />
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598202082917">
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598203803151">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1598202082917" />
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1598203803151" />
     <state x="653" y="752" width="672" height="678" key="search.everywhere.popup" timestamp="1598096204192">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

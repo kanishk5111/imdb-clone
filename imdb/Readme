@@ -1,0 +1,33 @@
+I made a landing page but didn't connected because it requires some more Functionality otherwise it deteriorate the experience but you can access it by http://127.0.0.1:8000/movies/
+
+Functionality:
+
+1.  We land on this page (http://127.0.0.1:8000/)
+
+2.  We can click on any movies to get there information or simply user header to filter out movies based on
+    a) Genres
+    b) Year
+    c) Language
+    d) Search bar
+
+    We can also take use of pagination to find more movies by clicking next or prev
+
+    After clicking on a specific movie we find:
+
+    a) Trailer of the movie (here i used a single trailer link)
+
+    b) Movie Image
+
+    c) Description
+
+    d) Download and watch link
+
+    e) Actor name
+
+    f) Every time you visit a movie their view count gets incremented
+
+    g) Below you find related movies of same Genre
+
+
+
+

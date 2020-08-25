@@ -21,7 +21,7 @@ class HomeView(ListView):
 
 class MovieList(ListView):
     model = Movie
-    paginate_by = 2
+    paginate_by = 4
 
 
 class MovieDetail(DetailView):
